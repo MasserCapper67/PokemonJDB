@@ -8,6 +8,10 @@
     <artifactId>PokemonDB</artifactId>
     <version>1.0.0</version>
 
+    <packaging>
+        jar
+    </packaging>
+
     <properties>
         <maven.compiler.source>20</maven.compiler.source>
         <maven.compiler.target>20</maven.compiler.target>
@@ -29,4 +33,11 @@
 
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/MasserCapper67/PokemonJDB</url>
+        </repository>
+    </distributionManagement>
 </project>
