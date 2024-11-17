@@ -6,7 +6,7 @@
 
     <groupId>com.pokemon</groupId>
     <artifactId>PokemonDB</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <packaging>
         jar
@@ -37,7 +37,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/massercapper67/PokemonJDB</url>
+            <url>https://maven.pkg.github.com/MasserCapper67/PokemonJDB</url>
         </repository>
     </distributionManagement>
 </project>
