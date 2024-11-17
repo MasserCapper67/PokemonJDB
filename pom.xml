@@ -37,7 +37,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/MasserCapper67/PokemonJDB</url>
+            <url>https://maven.pkg.github.com/massercapper67/PokemonJDB</url>
         </repository>
     </distributionManagement>
 </project>
